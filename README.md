@@ -6,7 +6,7 @@
   </p>
 </p>
 
-<p align="center"><strong>Free:</strong> <a href="https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=cloud-architecture-field-guide">Check your interview answer</a> &nbsp;|&nbsp; <strong>Weekly drills:</strong> <a href="https://valenx.org/pass?utm_source=github&utm_medium=readme&utm_campaign=cloud-architecture-field-guide">Interview Pass, $19/mo</a></p>
+<p align="center"><strong>Free:</strong> <a href="https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=cloud-architecture-field-guide">Check your interview answer</a> &nbsp;|&nbsp; <strong>Weekly drills:</strong> <a href="https://valenx.org/pass?utm_source=github&utm_medium=readme&utm_campaign=cloud-architecture-field-guide&utm_content=cloud-architecture-field-guide_L9">Interview Pass, $19/mo</a></p>
 
 <p align="center">
   <a href="https://github.com/Johnnnmai/cloud-architecture-field-guide/stargazers"><img src="https://img.shields.io/github/stars/Johnnnmai/cloud-architecture-field-guide?style=social" alt="GitHub Stars"></a>
@@ -31,15 +31,15 @@ Everything here is based on real data: 1,420+ actual job descriptions, real inte
 
 This repo exists to become the go-to resource for solutions architect careers - role analysis, interview questions, career transition paths, portfolio strategy, and curated resources. All in one place. All backed by data.
 
-Star this repo to keep an eye on updates. Visit [valenx.org](https://valenx.org/) for more SA career resources.
+Star this repo to keep an eye on updates. Visit [valenx.org](https://valenx.org/?utm_source=github&utm_medium=readme&utm_content=cloud-architecture-field-guide_L34) for more SA career resources.
 
 ---
 
 ### 📘 Sponsored by
 
-[The 0→1 Solutions Architect Interview Playbook](https://valenx.org/books/sa) - 7 Proprietary Frameworks for AWS, Azure, and GCP Architecture Interviews. Built from 200+ real SA interview loops at Amazon, Microsoft, Google, and top cloud consultancies.
+[The 0→1 Solutions Architect Interview Playbook](https://valenx.org/books/sa?utm_source=github&utm_medium=readme&utm_content=cloud-architecture-field-guide_L40) - 7 Proprietary Frameworks for AWS, Azure, and GCP Architecture Interviews. Built from 200+ real SA interview loops at Amazon, Microsoft, Google, and top cloud consultancies.
 
-<a href="https://valenx.org/books/sa"><img src="https://img.shields.io/badge/Amazon_Kindle-$9.99-orange?style=for-the-badge&logo=amazon" alt="Get on Amazon"></a> <a href="https://www.amazon.com/dp/B0H295RKHP"><img src="https://img.shields.io/badge/Free_with-Kindle_Unlimited-blue?style=for-the-badge&logo=amazon" alt="Free with KU"></a>
+<a href="https://valenx.org/books/sa?utm_source=github&utm_medium=readme&utm_content=cloud-architecture-field-guide_L42"><img src="https://img.shields.io/badge/Amazon_Kindle-$9.99-orange?style=for-the-badge&logo=amazon" alt="Get on Amazon"></a> <a href="https://www.amazon.com/dp/B0H295RKHP"><img src="https://img.shields.io/badge/Free_with-Kindle_Unlimited-blue?style=for-the-badge&logo=amazon" alt="Free with KU"></a>
 
 ---
 
@@ -180,7 +180,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  <a href="https://valenx.org/books/sa">📘 The 0→1 Solutions Architect Interview Playbook</a>
+  <a href="https://valenx.org/books/sa?utm_source=github&utm_medium=readme&utm_content=cloud-architecture-field-guide_L183">📘 The 0→1 Solutions Architect Interview Playbook</a>
   <br/><br/>
   If this helped, <a href="https://github.com/Johnnnmai/cloud-architecture-field-guide/stargazers">leave a ⭐</a>
 </p>
