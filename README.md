@@ -6,6 +6,8 @@
   </p>
 </p>
 
+> 📥 **Free by email, no checkout:** [Cloud Platform Engineer Interview Checklist (one-page PDF)](https://valenx.org/bonus?m=cloud-checklist&utm_source=github&utm_medium=readme&utm_campaign=vxbox1126&utm_content=cloud-architecture-field-guide). Instant download, one confirm email, unsubscribe anytime.
+
 <p align="center"><strong>Free:</strong> <a href="https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=cloud-architecture-field-guide">Check your interview answer</a> &nbsp;|&nbsp; <strong>Weekly drills:</strong> <a href="https://valenx.org/pass?utm_source=github&utm_medium=readme&utm_campaign=cloud-architecture-field-guide&utm_content=cloud-architecture-field-guide_L9">Interview Pass, $19/mo</a></p>
 
 <p align="center">
